@@ -1,0 +1,7 @@
+.vscode/**
+**/__pycache__/**
+widgetmodifier/**
+.pylintrc
+.directory
+tox.ini
+manage.py
